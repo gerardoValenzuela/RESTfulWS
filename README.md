@@ -35,44 +35,77 @@ C:\evidencia\RESTfulWS>http get http://localhost:8080/utm/api/v1/ Accept:applica
 Lo cual generara  los siguientes links
 
 HTTP/1.1 200
+
 Content-Type: application/json
+
 Date: Thu, 09 May 2019 20:45:25 GMT
+
 Transfer-Encoding: chunked
 
+
 {
+
     "_links": [
+    
         {
+        
             "href": "http://localhost:8080/utm/api/v1/",
+            
             "rel": "api"
+            
         },
+        
         {
+        
             "href": "http://localhost:8080/utm/api/v1/file/",
+            
             "rel": "file"
+            
         },
+        
         {
+        
             "href": "http://localhost:8080/utm/api/v1/directory/",
+            
             "rel": "directory"
+            
         },
+        
         {
+        
             "href": "http://localhost:8080/utm/api/v1/notify/",
+            
             "rel": "notify"
+            
         },
+        
         {
+        
             "href": "http://localhost:8080/utm/api/v1/user/",
+            
             "rel": "user"
+            
         },
+        
         {
+        
             "href": "http://localhost:8080/utm/api/v1/index/",
+            
             "rel": "index"
+            
         }
+        
     ],
+    
     "version": "1"
+    
 }
+
 
 Si uno sigue cada uno de los links que va apareciendo, podra recorrer todas los servicios disponibles de la aplicacion
 
 ## Créditos
 
-creador Gerardo Valenzuela
+Programador Gerardo Valenzuela
 
 ## Licencia

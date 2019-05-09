@@ -1,11 +1,7 @@
-# RESTfulWS
+## CS13304 - Computación Avanzada en Java
+- Por: Jose Manuel Lopez Lujan, MIT
 
--Repositorio git para el curso de Programación Avanzada en Java de la Universidad TecMilenio
-
-## Instalación
-
-## Uso
-
-## Créditos
-
-## Licencia
+### CS13304T12 - RESTful Web SErvices
+ 
+#### Tema 12 - RESTful Web Services con Spring MVC
+ 

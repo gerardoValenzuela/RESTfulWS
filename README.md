@@ -6,6 +6,8 @@
 
 ### 1.-crear el war de la aplicacion
 
+   se posiciona en el directorio de la aplicación en el que reside el archivo POM.xml y se ejecuta
+
    Esto se hace utilizando las instrucciones
    
    mvn clean install
@@ -13,6 +15,8 @@
    ó
    
    mvn clean package
+   
+   esto creara el archivo RESTfulWS
    
 ### 2.-instalar el archivo war en el servidor Tomcat
 

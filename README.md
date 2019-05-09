@@ -16,7 +16,7 @@
    
    mvn clean package
    
-   esto creara el archivo RESTfulWS
+   esto creara el archivo RESTfulWS.war
    
 ### 2.-instalar el archivo war en el servidor Tomcat
 

@@ -4,7 +4,7 @@
 
 ## Instalación
 
-1.-crear el war de la aplicacion
+### 1.-crear el war de la aplicacion
 
    Esto se hace utilizando las instrucciones
    
@@ -14,7 +14,7 @@
    
    mvn clean package
    
-2.-instalar el archivo war en el servidor Tomcat
+### 2.-instalar el archivo war en el servidor Tomcat
 
   esto se hace  copiando el archivo war en el directorio webapps del directorio de instalación del servidor web, en mi caso es:
   
@@ -22,7 +22,7 @@
   
   automaticamente al iniciar el servidor Tomcat instala la aplicación 
 
-3.-ejecutar Tomcat
+### 3.-ejecutar Tomcat
 
   Esto se realiza ejecutando el archivo por lotes startup.bat en windows o startup.sh en linux
 
